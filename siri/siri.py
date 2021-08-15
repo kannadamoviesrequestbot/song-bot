@@ -12,7 +12,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 ABS="Developer"
 APPER="beereshbanakards"
 OWNER="Owner"
-GITCLONE="github.com/shamilhabeebnelli/song-bot"
+GITCLONE="https://t.me/KANNADAMOVIES_17"
 B2="https://t.me/KANNADAMOVIES_17"
 BUTTON1="📜 Source Code 📜"
 
