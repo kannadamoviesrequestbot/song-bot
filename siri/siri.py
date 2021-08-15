@@ -13,7 +13,7 @@ ABS="Developer"
 APPER="beereshbanakards"
 OWNER="Owner"
 GITCLONE="github.com/shamilhabeebnelli/song-bot"
-B2="telegram.dog/shamilhabeeb"
+B2="https://t.me/KANNADAMOVIES_17"
 BUTTON1="📜 Source Code 📜"
 
 def time_to_seconds(time):
