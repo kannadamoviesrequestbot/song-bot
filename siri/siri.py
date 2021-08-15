@@ -11,9 +11,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 ABS="Developer"
 APPER="beereshbanakards"
-OWNER="Owner"
+OWNER="https://t.me/beereshbanakards"
 GITCLONE="https://t.me/KANNADAMOVIES_17"
-B2="https://t.me/KANNADAMOVIES_17"
+B2="https://t.me/searchkannadamovies"
 BUTTON1="📜 Source Code 📜"
 
 def time_to_seconds(time):
@@ -28,7 +28,7 @@ async def start(client, message):
                 [
                     InlineKeyboardButton(BUTTON1, url=GITCLONE)
                  ],[
-                    InlineKeyboardButton(OWNER, url=f"https://telegram.dog/{Config.OWNER}"),
+                    InlineKeyboardButton(OWNER, url="https://t.me/beereshbanakards"),
                     InlineKeyboardButton(ABS, url=B2)
             ]
           ]
