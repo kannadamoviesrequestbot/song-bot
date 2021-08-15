@@ -28,7 +28,7 @@ async def start(client, message):
                 [
                     InlineKeyboardButton(BUTTON1, url=GITCLONE)
                  ],[
-                    InlineKeyboardButton(OWNER, url="https://t.me/beereshbanakards"),
+                    InlineKeyboardButton(OWNER, url="owner"),
                     InlineKeyboardButton(ABS, url=B2)
             ]
           ]
